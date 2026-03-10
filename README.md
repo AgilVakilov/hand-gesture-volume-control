@@ -5,7 +5,6 @@ A computer vision pipeline that translates real-time physical hand gestures into
 This project uses a webcam feed to track 3D hand landmarks and calculates the Euclidean distance between the thumb and index finger to dynamically manipulate the Windows Master Volume API.
 
 
-*(Note: Replace the line above with a GIF of you using the project!)*
 
 ## 🚀 Features
 * **Real-Time Tracking:** Processes video frames on the fly using Google's MediaPipe Tasks API.
@@ -30,5 +29,5 @@ This project uses a webcam feed to track 3D hand landmarks and calculates the Eu
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/hand-gesture-volume-control.git](https://github.com/YourUsername/hand-gesture-volume-control.git)
+   git clone [https://github.com/AgilVakilov/hand-gesture-volume-control.git](https://github.com/YourUsername/hand-gesture-volume-control.git)
    cd hand-gesture-volume-control
