@@ -1,10 +1,8 @@
 # Real-Time Hand Gesture Volume Controller 🖐️🔊
 
-A computer vision pipeline that translates real-time physical hand gestures into operating system-level audio controls. 
+A computer vision pipeline that translates real-time physical hand gestures into operating system-level audio controls.
 
 This project uses a webcam feed to track 3D hand landmarks and calculates the Euclidean distance between the thumb and index finger to dynamically manipulate the Windows Master Volume API.
-
-
 
 ## 🚀 Features
 * **Real-Time Tracking:** Processes video frames on the fly using Google's MediaPipe Tasks API.
@@ -31,3 +29,7 @@ This project uses a webcam feed to track 3D hand landmarks and calculates the Eu
    ```bash
    git clone [https://github.com/AgilVakilov/hand-gesture-volume-control.git](https://github.com/AgilVakilov/hand-gesture-volume-control.git)
    cd hand-gesture-volume-control
+   
+
+## 👨‍💻 Author
+**Agil** *Computer Engineering @ Ankara University* | [GitHub](https://github.com/AgilVakilov)
